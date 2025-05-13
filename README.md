@@ -1,0 +1,3 @@
+Demonstrates how a Pinto Theme is put together.
+
+This module could be converted to a theme if Drupal eventually makes themes have equivalent autoloading/discovery as a module. But until then...

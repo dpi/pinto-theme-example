@@ -1,0 +1,13 @@
+.page {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.page--header {
+  border-bottom: 3px solid #333;
+  background-color: yellowgreen;
+}
+
+.page--main {
+  padding: 1em;
+}

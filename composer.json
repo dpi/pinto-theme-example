@@ -3,6 +3,7 @@
     "description": "Pinto Theme Example",
     "type": "drupal-module",
     "require": {
-        "drupal/pinto_theme": "^0.0.1"
+        "drupal/pinto_theme": "^0.0.1",
+        "previousnext/ds-common": "*"
     }
 }

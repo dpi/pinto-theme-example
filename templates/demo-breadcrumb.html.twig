@@ -1,0 +1,6 @@
+{% for item in breadcrumb %}
+  {{ item }}
+  {% if not loop.last %}
+    &raquo;
+  {% endif %}
+{% endfor %}
